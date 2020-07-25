@@ -1,0 +1,16 @@
+body {
+	margin: 0;
+}
+
+.box {
+	background: url(img/2.png);
+	background-size: cover;
+	height: 550px;
+	width: 80%;
+	margin: auto;
+	margin-top: 30px;
+}
+.box .shape {
+	background: #0000ff63;
+	height: 500px;
+}
